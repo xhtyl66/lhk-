@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-	//whileÑ­»· 
+	//whileå¾ªç¯ 
 	int i,p;
 	i=1;
 	p=0;
@@ -12,7 +12,7 @@ int main()
 	}
 	printf("%d\n",p);
 	
-	//forÑ­»·
+	//forå¾ªç¯
 	int a,b=0;
 	for(a=1;a<=100;a++)
 	b=b+a;
